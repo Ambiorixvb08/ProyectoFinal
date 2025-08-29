@@ -1,0 +1,363 @@
+﻿fecha,gravedad,num_accidentes,modo_transporte,valor
+2012-01-01,,,Autobús Urbano,36.56
+2012-01-01,,,Metro,54.34
+2012-02-01,,,Autobús Urbano,36.69
+2012-02-01,,,Metro,55.28
+2012-03-01,,,Autobús Urbano,38.55
+2012-03-01,,,Metro,56.72
+2012-04-01,,,Autobús Urbano,33.17
+2012-04-01,,,Metro,50.0
+2012-05-01,,,Autobús Urbano,37.98
+2012-05-01,,,Metro,54.77
+2012-06-01,,,Autobús Urbano,36.66
+2012-06-01,,,Metro,52.02
+2012-07-01,,,Autobús Urbano,29.27
+2012-07-01,,,Metro,44.97
+2012-08-01,,,Autobús Urbano,20.32
+2012-08-01,,,Metro,32.28
+2012-09-01,,,Autobús Urbano,31.02
+2012-09-01,,,Metro,46.82
+2012-10-01,,,Autobús Urbano,38.0
+2012-10-01,,,Metro,55.39
+2012-11-01,,,Autobús Urbano,34.72
+2012-11-01,,,Metro,51.07
+2012-12-01,,,Autobús Urbano,32.54
+2012-12-01,,,Metro,47.91
+2013-01-01,,,Autobús Urbano,34.68
+2013-01-01,,,Metro,48.97
+2013-02-01,,,Autobús Urbano,34.1
+2013-02-01,,,Metro,48.73
+2013-03-01,,,Autobús Urbano,32.87
+2013-03-01,,,Metro,46.26
+2013-04-01,,,Autobús Urbano,38.22
+2013-04-01,,,Metro,51.97
+2013-05-01,,,Autobús Urbano,36.82
+2013-05-01,,,Metro,49.56
+2013-06-01,,,Autobús Urbano,35.3
+2013-06-01,,,Metro,47.33
+2013-07-01,,,Autobús Urbano,30.12
+2013-07-01,,,Metro,41.34
+2013-08-01,,,Autobús Urbano,19.96
+2013-08-01,,,Metro,28.26
+2013-09-01,,,Autobús Urbano,32.23
+2013-09-01,,,Metro,44.24
+2013-10-01,,,Autobús Urbano,39.72
+2013-10-01,,,Metro,52.88
+2013-11-01,,,Autobús Urbano,36.36
+2013-11-01,,,Metro,49.9
+2013-12-01,,,Autobús Urbano,33.72
+2013-12-01,,,Metro,48.44
+2014-01-01,,,Autobús Urbano,34.95
+2014-01-01,,,Metro,48.62
+2014-02-01,,,Autobús Urbano,34.22
+2014-02-01,,,Metro,47.44
+2014-03-01,,,Autobús Urbano,37.89
+2014-03-01,,,Metro,51.87
+2014-04-01,,,Autobús Urbano,34.2
+2014-04-01,,,Metro,46.8
+2014-05-01,,,Autobús Urbano,36.17
+2014-05-01,,,Metro,48.89
+2014-06-01,,,Autobús Urbano,34.46
+2014-06-01,,,Metro,46.27
+2014-07-01,,,Autobús Urbano,30.12
+2014-07-01,,,Metro,42.65
+2014-08-01,,,Autobús Urbano,19.54
+2014-08-01,,,Metro,28.94
+2014-09-01,,,Autobús Urbano,32.54
+2014-09-01,,,Metro,46.32
+2014-10-01,,,Autobús Urbano,39.05
+2014-10-01,,,Metro,54.03
+2014-11-01,,,Autobús Urbano,34.9
+2014-11-01,,,Metro,49.28
+2014-12-01,,,Autobús Urbano,34.2
+2014-12-01,,,Metro,49.75
+2015-01-01,,,Autobús Urbano,33.53
+2015-01-01,,,Metro,47.6
+2015-02-01,,,Autobús Urbano,33.52
+2015-02-01,,,Metro,47.36
+2015-03-01,,,Autobús Urbano,36.17
+2015-03-01,,,Metro,50.36
+2015-04-01,,,Autobús Urbano,35.13
+2015-04-01,,,Metro,48.81
+2015-05-01,,,Autobús Urbano,36.5
+2015-05-01,,,Metro,49.72
+2015-06-01,,,Autobús Urbano,34.92
+2015-06-01,,,Metro,47.49
+2015-07-01,,,Autobús Urbano,30.05
+2015-07-01,,,Metro,43.14
+2015-08-01,,,Autobús Urbano,21.17
+2015-08-01,,,Metro,29.98
+2015-09-01,,,Autobús Urbano,33.5
+2015-09-01,,,Metro,47.2
+2015-10-01,,,Autobús Urbano,38.16
+2015-10-01,,,Metro,54.61
+2015-11-01,,,Autobús Urbano,37.44
+2015-11-01,,,Metro,52.47
+2015-12-01,,,Autobús Urbano,35.83
+2015-12-01,,,Metro,50.99
+2016-01-01,,,Autobús Urbano,34.56
+2016-01-01,,,Metro,48.25
+2016-02-01,,,Autobús Urbano,36.74
+2016-02-01,,,Metro,51.44
+2016-03-01,,,Autobús Urbano,35.97
+2016-03-01,,,Metro,49.96
+2016-04-01,,,Autobús Urbano,38.52
+2016-04-01,,,Metro,53.16
+2016-05-01,,,Autobús Urbano,38.26
+2016-05-01,,,Metro,52.38
+2016-06-01,,,Autobús Urbano,37.93
+2016-06-01,,,Metro,49.54
+2016-07-01,,,Autobús Urbano,32.34
+2016-07-01,,,Metro,40.62
+2016-08-01,,,Autobús Urbano,24.76
+2016-08-01,,,Metro,31.45
+2016-09-01,,,Autobús Urbano,38.04
+2016-09-01,,,Metro,48.35
+2016-10-01,,,Autobús Urbano,40.35
+2016-10-01,,,Metro,53.05
+2016-11-01,,,Autobús Urbano,37.79
+2016-11-01,,,Metro,53.66
+2016-12-01,,,Autobús Urbano,34.84
+2016-12-01,,,Metro,52.9
+2017-01-01,,,Autobús Urbano,35.61
+2017-01-01,,,Metro,52.37
+2017-02-01,,,Autobús Urbano,36.93
+2017-02-01,,,Metro,52.22
+2017-03-01,,,Autobús Urbano,41.16
+2017-03-01,,,Metro,57.51
+2017-04-01,,,Autobús Urbano,33.88
+2017-04-01,,,Metro,49.92
+2017-05-01,,,Autobús Urbano,38.63
+2017-05-01,,,Metro,55.55
+2017-06-01,,,Autobús Urbano,37.39
+2017-06-01,,,Metro,54.63
+2017-07-01,,,Autobús Urbano,33.37
+2017-07-01,,,Metro,46.0
+2017-08-01,,,Autobús Urbano,25.05
+2017-08-01,,,Metro,35.15
+2017-09-01,,,Autobús Urbano,34.67
+2017-09-01,,,Metro,52.44
+2017-10-01,,,Autobús Urbano,39.24
+2017-10-01,,,Metro,59.15
+2017-11-01,,,Autobús Urbano,38.14
+2017-11-01,,,Metro,57.72
+2017-12-01,,,Autobús Urbano,33.85
+2017-12-01,,,Metro,53.74
+2018-01-01,,,Autobús Urbano,36.53
+2018-01-01,,,Metro,56.11
+2018-02-01,,,Autobús Urbano,34.93
+2018-02-01,,,Metro,55.44
+2018-03-01,,,Autobús Urbano,35.18
+2018-03-01,,,Metro,56.56
+2018-04-01,,,Autobús Urbano,37.32
+2018-04-01,,,Metro,58.36
+2018-05-01,,,Autobús Urbano,37.85
+2018-05-01,,,Metro,58.3
+2018-06-01,,,Autobús Urbano,36.91
+2018-06-01,,,Metro,55.65
+2018-07-01,,,Autobús Urbano,30.61
+2018-07-01,,,Metro,48.76
+2018-08-01,,,Autobús Urbano,22.84
+2018-08-01,,,Metro,34.83
+2018-09-01,,,Autobús Urbano,34.39
+2018-09-01,,,Metro,53.61
+2018-10-01,,,Autobús Urbano,40.49
+2018-10-01,,,Metro,62.91
+2018-11-01,,,Autobús Urbano,37.96
+2018-11-01,,,Metro,60.09
+2018-12-01,,,Autobús Urbano,35.44
+2018-12-01,,,Metro,56.59
+2019-01-01,,,Autobús Urbano,38.04
+2019-01-01,,,Metro,58.6
+2019-02-01,,,Autobús Urbano,38.46
+2019-02-01,,,Metro,57.35
+2019-03-01,,,Autobús Urbano,41.25
+2019-03-01,,,Metro,61.47
+2019-04-01,,,Autobús Urbano,36.74
+2019-04-01,,,Metro,55.27
+2019-05-01,,,Autobús Urbano,40.48
+2019-05-01,,,Metro,57.56
+2019-06-01,,,Autobús Urbano,38.4
+2019-06-01,,,Metro,56.9
+2019-07-01,,,Autobús Urbano,32.86
+2019-07-01,,,Metro,50.95
+2019-08-01,,,Autobús Urbano,22.92
+2019-08-01,,,Metro,36.13
+2019-09-01,,,Autobús Urbano,36.47
+2019-09-01,,,Metro,56.27
+2019-10-01,,,Autobús Urbano,43.1
+2019-10-01,,,Metro,66.15
+2019-11-01,,,Autobús Urbano,38.38
+2019-11-01,,,Metro,62.78
+2019-12-01,,,Autobús Urbano,33.03
+2019-12-01,,,Metro,58.04
+2020-01-01,,,Autobús Urbano,38.99
+2020-01-01,,,Metro,59.6
+2020-02-01,,,Autobús Urbano,40.9
+2020-02-01,,,Metro,60.41
+2020-03-01,,,Autobús Urbano,17.85
+2020-03-01,,,Metro,26.42
+2020-04-01,,,Autobús Urbano,3.12
+2020-04-01,,,Metro,4.86
+2020-05-01,,,Autobús Urbano,6.0
+2020-05-01,,,Metro,9.64
+2020-06-01,,,Autobús Urbano,14.7
+2020-06-01,,,Metro,21.78
+2020-07-01,,,Autobús Urbano,18.47
+2020-07-01,,,Metro,27.07
+2020-08-01,,,Autobús Urbano,14.04
+2020-08-01,,,Metro,20.71
+2020-09-01,,,Autobús Urbano,19.77
+2020-09-01,,,Metro,27.86
+2020-10-01,,,Autobús Urbano,22.73
+2020-10-01,,,Metro,30.07
+2020-11-01,,,Autobús Urbano,22.53
+2020-11-01,,,Metro,30.49
+2020-12-01,,,Autobús Urbano,22.56
+2020-12-01,,,Metro,30.93
+2021-01-01,,,Autobús Urbano,14.36
+2021-01-01,,,Metro,29.27
+2021-02-01,,,Autobús Urbano,21.52
+2021-02-01,,,Metro,30.3
+2021-03-01,,,Autobús Urbano,25.23
+2021-03-01,,,Metro,35.04
+2021-04-01,,,Autobús Urbano,24.7
+2021-04-01,,,Metro,33.8
+2021-05-01,,,Autobús Urbano,26.24
+2021-05-01,,,Metro,36.11
+2021-06-01,,,Autobús Urbano,27.1
+2021-06-01,,,Metro,37.71
+2021-07-01,,,Autobús Urbano,23.6
+2021-07-01,,,Metro,34.04
+2021-08-01,,,Autobús Urbano,17.09
+2021-08-01,,,Metro,26.0
+2021-09-01,,,Autobús Urbano,27.41
+2021-09-01,,,Metro,41.22
+2021-10-01,,,Autobús Urbano,30.64
+2021-10-01,,,Metro,47.2
+2021-11-01,,,Autobús Urbano,31.1
+2021-11-01,,,Metro,48.33
+2021-12-01,,,Autobús Urbano,27.69
+2021-12-01,,,Metro,43.29
+2022-01-01,,,Autobús Urbano,26.72
+2022-01-01,,,Metro,39.66
+2022-02-01,,,Autobús Urbano,29.77
+2022-02-01,,,Metro,44.81
+2022-03-01,,,Autobús Urbano,35.38
+2022-03-01,,,Metro,52.84
+2022-04-01,,,Autobús Urbano,30.26
+2022-04-01,,,Metro,46.53
+2022-05-01,,,Autobús Urbano,33.68
+2022-05-01,,,Metro,50.34
+2022-06-01,,,Autobús Urbano,32.51
+2022-06-01,,,Metro,48.2
+2022-07-01,,,Autobús Urbano,25.22
+2022-07-01,,,Metro,40.76
+2022-08-01,,,Autobús Urbano,20.45
+2022-08-01,,,Metro,31.91
+2022-09-01,,,Autobús Urbano,33.94
+2022-09-01,,,Metro,51.16
+2022-10-01,,,Autobús Urbano,36.34
+2022-10-01,,,Metro,56.08
+2022-11-01,,,Autobús Urbano,36.08
+2022-11-01,,,Metro,56.17
+2022-12-01,,,Autobús Urbano,32.81
+2022-12-01,,,Metro,53.2
+2023-01-01,,,Autobús Urbano,34.67
+2023-01-01,,,Metro,54.42
+2023-02-01,,,Autobús Urbano,35.22
+2023-02-01,,,Metro,55.34
+2023-03-01,,,Autobús Urbano,40.37
+2023-03-01,,,Metro,61.49
+2023-04-01,,,Autobús Urbano,35.05
+2023-04-01,,,Metro,54.1
+2023-05-01,,,Autobús Urbano,39.24
+2023-05-01,,,Metro,58.49
+2023-06-01,,,Autobús Urbano,40.08
+2023-06-01,,,Metro,57.07
+2023-07-01,,,Autobús Urbano,35.78
+2023-07-01,,,Metro,47.86
+2023-08-01,,,Autobús Urbano,27.98
+2023-08-01,,,Metro,36.49
+2023-09-01,,,Autobús Urbano,42.46
+2023-09-01,,,Metro,54.82
+2023-10-01,,,Autobús Urbano,44.11
+2023-10-01,,,Metro,62.23
+2023-11-01,,,Autobús Urbano,41.98
+2023-11-01,,,Metro,61.57
+2023-12-01,,,Autobús Urbano,37.69
+2023-12-01,,,Metro,58.42
+2024-01-01,,,Autobús Urbano,40.24
+2024-01-01,,,Metro,58.88
+2024-02-01,,,Autobús Urbano,41.47
+2024-02-01,,,Metro,61.47
+2024-03-01,,,Autobús Urbano,39.07
+2024-03-01,,,Metro,59.13
+2024-04-01,,,Autobús Urbano,44.2
+2024-04-01,,,Metro,64.26
+2024-05-01,,,Autobús Urbano,42.46
+2024-05-01,,,Metro,62.33
+2024-06-01,,,Autobús Urbano,40.32
+2024-06-01,,,Metro,58.8
+2024-07-01,,,Autobús Urbano,34.08
+2024-07-01,,,Metro,52.44
+2024-08-01,,,Autobús Urbano,25.8
+2024-08-01,,,Metro,39.57
+2024-09-01,,,Autobús Urbano,40.13
+2024-09-01,,,Metro,59.82
+2024-10-01,,,Autobús Urbano,45.86
+2024-10-01,,,Metro,69.47
+2024-11-01,,,Autobús Urbano,42.53
+2024-11-01,,,Metro,65.96
+2024-12-01,,,Autobús Urbano,39.92
+2024-12-01,,,Metro,63.06
+2025-01-01,Grave,295.0,Autobús Urbano,40.82
+2025-01-01,Grave,295.0,Metro,62.13
+2025-01-01,Leve,1964.0,Autobús Urbano,40.82
+2025-01-01,Leve,1964.0,Metro,62.13
+2025-01-01,Mortal,2.0,Autobús Urbano,40.82
+2025-01-01,Mortal,2.0,Metro,62.13
+2025-01-01,Sin lesiones,1647.0,Autobús Urbano,40.82
+2025-01-01,Sin lesiones,1647.0,Metro,62.13
+2025-02-01,Grave,255.0,Autobús Urbano,41.49
+2025-02-01,Grave,255.0,Metro,62.39
+2025-02-01,Leve,1835.0,Autobús Urbano,41.49
+2025-02-01,Leve,1835.0,Metro,62.39
+2025-02-01,Sin lesiones,1556.0,Autobús Urbano,41.49
+2025-02-01,Sin lesiones,1556.0,Metro,62.39
+2025-03-01,Grave,351.0,Autobús Urbano,43.74
+2025-03-01,Grave,351.0,Metro,66.71
+2025-03-01,Leve,2127.0,Autobús Urbano,43.74
+2025-03-01,Leve,2127.0,Metro,66.71
+2025-03-01,Mortal,4.0,Autobús Urbano,43.74
+2025-03-01,Mortal,4.0,Metro,66.71
+2025-03-01,Sin lesiones,1942.0,Autobús Urbano,43.74
+2025-03-01,Sin lesiones,1942.0,Metro,66.71
+2025-04-01,Grave,317.0,Autobús Urbano,40.46
+2025-04-01,Grave,317.0,Metro,59.81
+2025-04-01,Leve,1961.0,Autobús Urbano,40.46
+2025-04-01,Leve,1961.0,Metro,59.81
+2025-04-01,Mortal,1.0,Autobús Urbano,40.46
+2025-04-01,Mortal,1.0,Metro,59.81
+2025-04-01,Sin lesiones,1766.0,Autobús Urbano,40.46
+2025-04-01,Sin lesiones,1766.0,Metro,59.81
+2025-05-01,Grave,322.0,Autobús Urbano,43.7
+2025-05-01,Grave,322.0,Metro,63.5
+2025-05-01,Leve,2044.0,Autobús Urbano,43.7
+2025-05-01,Leve,2044.0,Metro,63.5
+2025-05-01,Mortal,4.0,Autobús Urbano,43.7
+2025-05-01,Mortal,4.0,Metro,63.5
+2025-05-01,Sin lesiones,1820.0,Autobús Urbano,43.7
+2025-05-01,Sin lesiones,1820.0,Metro,63.5
+2025-06-01,Grave,352.0,Autobús Urbano,47.56
+2025-06-01,Grave,352.0,Metro,61.42
+2025-06-01,Leve,2195.0,Autobús Urbano,47.56
+2025-06-01,Leve,2195.0,Metro,61.42
+2025-06-01,Mortal,1.0,Autobús Urbano,47.56
+2025-06-01,Mortal,1.0,Metro,61.42
+2025-06-01,Sin lesiones,1740.0,Autobús Urbano,47.56
+2025-06-01,Sin lesiones,1740.0,Metro,61.42
+2025-07-01,Grave,314.0,,
+2025-07-01,Leve,1956.0,,
+2025-07-01,Mortal,5.0,,
+2025-07-01,Sin lesiones,1678.0,,

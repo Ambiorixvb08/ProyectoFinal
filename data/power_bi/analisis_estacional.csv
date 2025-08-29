@@ -1,0 +1,28 @@
+mes,gravedad,total_accidentes
+1,Grave,295
+1,Leve,1964
+1,Mortal,2
+1,Sin lesiones,1647
+2,Grave,255
+2,Leve,1835
+2,Sin lesiones,1556
+3,Grave,351
+3,Leve,2127
+3,Mortal,4
+3,Sin lesiones,1942
+4,Grave,317
+4,Leve,1961
+4,Mortal,1
+4,Sin lesiones,1766
+5,Grave,322
+5,Leve,2044
+5,Mortal,4
+5,Sin lesiones,1820
+6,Grave,352
+6,Leve,2195
+6,Mortal,1
+6,Sin lesiones,1740
+7,Grave,314
+7,Leve,1956
+7,Mortal,5
+7,Sin lesiones,1678
